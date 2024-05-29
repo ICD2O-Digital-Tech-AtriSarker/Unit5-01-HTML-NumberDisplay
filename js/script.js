@@ -23,7 +23,7 @@ function getResult() {
   }
 
   // Initialize Counter
-  let counter = minimum
+  let counter = minimum;
 
   // While Loop
   while ( counter <= maximum ) {
